@@ -7,6 +7,7 @@
 
 ## What is Git Zipper
 
+[![Docker Stars](https://img.shields.io/docker/stars/fiercely/git-zipper.svg)](https://hub.docker.com/r/fiercely/git-zipper/)[![Docker Stars](https://img.shields.io/docker/pulls/fiercely/git-zipper.svg)](https://hub.docker.com/r/fiercely/git-zipper/)
 
 Sometimes you only need some folders, a single file, or only the files ending on .xml.
 
